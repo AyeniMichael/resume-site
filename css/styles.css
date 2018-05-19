@@ -1,0 +1,57 @@
+.body{
+	background-color: #ccebff;
+}
+
+h1.mainHeading{
+	color: #e6f2ff;
+	background-color:#003366;
+	padding: 10px;
+}
+
+.subHeading{
+	color:#e6f2ff;
+	background-color:#003366;
+	padding: 15px;
+}
+
+.contact{
+	font-style: italic;
+	font-size: 15px;
+	font-family: Arial, Verdana sans-serif;
+	line-height: 1.8;
+	word-spacing: 2px;
+}
+
+.subContent{
+	font-size: 20px;
+	font-family: Arial, Verdana sans-serif;
+	line-height: 1.8;
+	word-spacing: 2px;
+}
+
+table, th, td{
+	padding: 10px;
+	text-align: left;
+	font-size: 20px;
+	font-family: Arial, Verdana sans-serif;
+	line-height: 1.8;
+	word-spacing: 2px;
+}
+
+ul{
+	list-style-type: none;
+	font-size: 20px;
+	font-family: Arial, Verdana sans-serif;
+	line-height: 1.8;
+	word-spacing: 2px;
+	padding-left: 0;
+}
+
+.responsibilities{
+	font-size: 25px;
+	color: #003366;
+	font-style: oblique;
+	font-weight: bold;
+	line-height: 1.8;
+	word-spacing: 2px;
+}
